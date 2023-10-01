@@ -1,9 +1,8 @@
 # obsidian-templater-script-organizer-education
 Creates documents for your studies with a few clicks. Stores them in a structured way. Displays them in dashboards.
 ## Overview
-![Example of Templater Script. Creating some documents for different modules.](example_templater_script.mp4)
-
-If you are studying, you can use this setup to store your documents in a structured way. The script is not perfect, but it works for the workflow I show in the video.
+If you are studying, you can use this setup to store your documents in a structured way in obsidian. Creating files will be very easy and fast. The script is not perfect, but it works for the workflow I show in the video:
+[Example of Templater Script. Creating some documents for different modules](https://github.com/DerCarlauer/obsidian-templater-script-organizer-education/assets/134696439/6fbecb2a-bd75-4bb8-8e40-0372fa28a8e6)
 
 ## Pre-conditions
 * [Obsidian](https://obsidian.md/)
